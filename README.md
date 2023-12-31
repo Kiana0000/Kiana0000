@@ -4,5 +4,5 @@
 
 <h2> 📄Certifications:</h2>
 
-- <b>Google Cybersecurity (https://coursera.org/share/fa089c8eea5697b6921245a08774ff68)</b>
+- <b>Google Cybersecurity Professional Certficate (https://coursera.org/share/fa089c8eea5697b6921245a08774ff68)</b>
 
